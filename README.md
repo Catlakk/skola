@@ -1,1 +1,1 @@
-# skola.github.io
+# skola
