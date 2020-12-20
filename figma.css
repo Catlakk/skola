@@ -1,0 +1,133 @@
+
+/*Doda san ovaj css koji je napravljen tocno po stvarnim mjerama na figmi.*/
+body {
+    background-color: #060507;
+    
+}#marginId{
+    position: relative;
+width: 2030px;
+height: 1522px;
+    margin: 199px, 111px, 199px, 177px;
+}
+#gold2Id{
+    position: absolute;
+width:  1533px;
+height: 948px;
+top: 574px;
+}
+
+#ikonaId{
+    position: absolute;
+    width: 1cm;
+    height: 1cm;
+    left: 52px;
+    top: 52px;    
+}
+#sredisteId{
+   
+    position: absolute;
+    width: 1742px;
+    height: 1124px;
+    left: 144px;
+    top: 199px;
+    background-color: #060507 ;
+
+    
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 32px;
+    overflow: hidden;
+}
+#logoId{
+ position: absolute;
+width: 285px;
+height: 45px;
+left: 55px;
+top: 64px;
+}
+.text{
+    color: white;
+    top: 90px;
+    font-family: 'Syncopate', sans-serif;
+}
+#bikeId{
+    position: absolute;
+    width: 61px;
+    height: 40px;
+left: 453px;
+}
+#accId{
+    position: absolute;
+    width: 146px;
+    height: 40px;
+    left: 586px;
+}
+#newId{
+    position: absolute;
+    height: 40px;
+    left: 804px;
+    
+}
+#expId{
+    position: absolute;
+    width: 96px;
+    height: 40px;
+    left:984px;
+}
+#goldId{
+    position: absolute;
+    height:375px;
+ width:562px;
+ left: 1184px;
+}
+#p1Id{
+    position: absolute;
+width: 1032px;
+height: 700px;
+top: 164px
+}
+#krugId{
+    position: absolute;
+width: 183.28px;
+height: 177.41px;
+left: 830px;
+top: 214px;
+}
+#p2Id{
+    position: absolute;
+width: 316px;
+height: 700px;
+left: 1073px;
+top: 164px;
+}
+#p3Id{
+    position: absolute;
+    width: 316px;
+    height: 256px;
+    left: 1073px;
+    top: 868px;
+      
+}
+
+.rec{
+    position: absolute;
+width: 353px;
+height: 749px;
+left: 1389px;
+top: 375px;
+}
+#kineskaId{
+    position: absolute;
+width: 1724px;
+height: 150px;
+left: -12px;
+top: 740px;
+}
+#infoId{
+    position: absolute;
+width: 933px;
+height: 92px;
+left: 64px;
+top: 988px;
+}
+

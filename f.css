@@ -1,0 +1,132 @@
+body {
+    background-color: #060507;
+    
+}#marginId{
+    position: relative;
+width: 1725.5px;
+height: 1369.8px;
+    margin: 169.15px, 94.35px, 169.15px, 150.45px;
+
+}
+#gold2Id{
+    position: absolute;
+width:  1303px;
+height: 805.8px;
+top: 487.9px;
+}
+
+#ikonaId{
+    position: absolute;
+    width: 0.85cm;
+    height: 0.85cm;
+    left: 44.2px;
+    top: 44.2px;    
+}
+#sredisteId{
+   
+    position: absolute;
+    width: 1480.7px;
+    height: 955.4px;
+    left: 122.4px;
+    top: 169.15px;
+    background-color: #060507 ;
+
+    
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 32px;
+    overflow: hidden;
+}
+#logoId{
+ position: absolute;
+width: 242.25px;
+height: 38.25px;
+left: 46.75px;
+top: 54.4px;
+}
+.text{
+    color: white;
+    top: 76.5px;
+    font-family: 'Syncopate', sans-serif;
+}
+#bikeId{
+    position: absolute;
+    width: 61px;
+    height: 40px;
+left: 385.05px;
+}
+#accId{
+    position: absolute;
+    width: 146px;
+    height: 40px;
+    left: 498.1px;
+}
+#newId{
+    position: absolute;
+    height: 40px;
+    left: 683.4px;
+    
+}
+#expId{
+    position: absolute;
+    width: 96px;
+    height: 40px;
+    left:836.4px;
+}
+#goldId{
+    position: absolute;
+    height:318.75px;
+ width:477.7px;
+ left: 1006.4px;
+}
+#p1Id{
+    position: absolute;
+width: 877.2px;
+height: 595px;
+top: 139.4px
+}
+#krugId{
+    position: absolute;
+width: 155.788px;
+height: 150.7985px;
+left: 705.5px;
+top: 181.9px;
+}
+#p2Id{
+    position: absolute;
+width: 268.6px;
+height: 595px;
+left: 912.05px;
+top: 139.4px;
+}
+#p3Id{
+    position: absolute;
+    width: 268.6px;
+    height: 217.6px;
+    left: 912.05px;
+    top: 737.8px;
+      
+}
+
+.rec{
+    position: absolute;
+width: 300.05px;
+height: 636.65px;
+left: 1180.65px;
+top: 318.75px;
+}
+#kineskaId{
+    position: absolute;
+width: 1465.4px;
+height: 127px;
+left: -10.2px;
+top: 629px;
+}
+#infoId{
+    position: absolute;
+width: 793.05px;
+height: 78.2px;
+left: 54.4px;
+top: 839.8px;
+}
+
